@@ -1,0 +1,11 @@
+GET https://www.dictionaryapi.com/api/v3/references/sd4/json/baseball?key=<APIKEY>
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/giphys
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/words?search=plant
